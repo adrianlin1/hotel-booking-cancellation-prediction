@@ -98,8 +98,8 @@ The framing turned an abstract model into a legible operating tool and made the 
 .
 ├── README.md
 ├── .gitignore
-├── BA576 Final Project Team 10.ipynb                       # Main analysis notebook
-├── BA576 Team 10 final presentation.pdf                    # Final presentation deck
+├── BA576 Final Project.ipynb                               # Main analysis notebook
+├── BA576 Final Presentation.pdf                            # Final presentation deck
 ├── Drop deposit_type_ Experimenting & Reasoning (DOC).pdf  # Supporting analysis on dropping deposit_type
 └── hotel_bookings.csv                                      # Dataset
 ```
@@ -108,7 +108,7 @@ The framing turned an abstract model into a legible operating tool and made the 
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-jupyter notebook "BA576 Final Project Team 10.ipynb"
+jupyter notebook "BA576 Final Project.ipynb"
 ```
 
 ## License
