@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Hotel.png" alt="Hotel" width="400">
+</p>
+
+<p align="center">
+  <em>Predicting the bookings that never arrive.</em>
+</p>
+
+# lodestar
+
 # Hotel Booking Cancellation Prediction
 
 A machine learning pipeline that predicts whether a hotel reservation will be cancelled, built to support revenue management decisions like overbooking strategy and customer outreach. The deployed model achieves a ~0.70 cross-validated F1 score on a real-world reservation dataset of 119,390 bookings, with a tuned threshold and an asymmetric-cost framing that ties model selection back to operator economics.
